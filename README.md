@@ -31,4 +31,4 @@ This project implements a full-stack CRUD (Create, Read, Update, Delete) applica
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/vaishnavi1243/node-express-crud.git
